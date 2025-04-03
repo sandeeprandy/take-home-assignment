@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "take-home-assignment",
-    "slug": "take-home-assignment",
+    "slug": "profile-page",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "76304cc0-b0a3-4f27-9c11-f7505a854c88"
+      }
+    },
+    "owner": "sandeeprandy"
   }
 }
